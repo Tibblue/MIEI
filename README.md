@@ -57,10 +57,23 @@ This repository stores all the files and projects developed while taking my cour
     - [Knowledge Representation](https://github.com/VitorPeixoto97/Health-Care-Knowledge-Representation) - Health care system representation using Prolog.
     - [Artificial Neural Networks](https://github.com/VitorPeixoto97/Artificial-Neural-Networks) - Wine data analysis through a connectionist system using R.
 
-* **4th year  ← I'm here!**
-  - [NoSQL Databases](https://github.com/VitorPeixoto97/Sakila-NoSQL) - Migration of MySQL Sakila to Oracle SQL, MongoDB and Neo4j.
-  - More will be added soon
+* **4th year**
+  - Complementary Curricular Units
+    - [NoSQL Databases](https://github.com/VitorPeixoto97/Sakila-NoSQL) - Migration of MySQL Sakila to Oracle SQL, MongoDB and Neo4j.
+    - Computer Systems Security
+  - Specialization Profiles
+    - [Knowledge Engineering](https://github.com/Tibblue/EC)
+      - Database Administration and Exploration
+      - Data Analysis
+      - Semantic Interoperability
+      - Knowledge Discovery
+    - [Language and Knowledge Processing](https://github.com/Tibblue/PLC)
+      - Grammars in Software Understanding
+      - Information Processing and Representation
+      - Scripting in Natural Language Processing
+      - Knowledge Processing and Representation
+  - [Computer Engineering Laboratory](https://github.com/Tibblue/LEI)
   
-* **5th year**
-  - Master's Project
-  - Master's Thesis
+* **5th year  ← I'm here!**
+  - [Master's Project](https://github.com/Tibblue/PEI)
+  - [Master's Dissertation]()
